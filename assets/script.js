@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "919151123457"; // Replace with official WhatsApp number, country code only, no + sign.
+const WHATSAPP_NUMBER = "15559521718"; // Replace with official WhatsApp number, country code only, no + sign.
 const navToggle = document.querySelector('.menu-toggle');
 const navLinks = document.querySelector('.nav-links');
 if(navToggle){navToggle.addEventListener('click',()=>navLinks.classList.toggle('open'))}
